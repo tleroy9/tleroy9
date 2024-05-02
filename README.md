@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tleroy9
+- 👋 Hi, I’m @tleroy9, or Tim
 - 👀 I’m interested in artificial intelligence and cybersecurity, blending the 2 to create something cohesive and sustainable
 - 🌱 I’m currently learning python, C++
 - 📫 How to reach me: tim.leroy008@gmail.com, @tlroy on instagram
